@@ -17,5 +17,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+**Dependencies**
+* Vue.JS 
+* Tesseract.JS for OCR Work
 
 
